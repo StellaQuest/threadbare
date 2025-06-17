@@ -1577,7 +1577,7 @@ position = Vector2(-1849.74, 1193.32)
 scale = Vector2(1.1899, 1.13541)
 
 [node name="Tree225" parent="Trees" instance=ExtResource("16_0ownb")]
-position = Vector2(-1893.47, 1199.92)
+position = Vector2(-2089.67, 1082.13)
 scale = Vector2(1.06288, 1.01398)
 
 [node name="Tree226" parent="Trees" instance=ExtResource("16_0ownb")]
